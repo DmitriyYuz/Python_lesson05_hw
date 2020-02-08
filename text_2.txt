@@ -1,0 +1,4 @@
+Vitalov:15000
+Ogurdze:17000
+Nikolaev:16000
+Stepanov:25000
